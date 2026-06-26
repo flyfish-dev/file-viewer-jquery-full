@@ -1,6 +1,6 @@
 {
   "name": "@file-viewer/jquery-full",
-  "version": "2.1.4",
+  "version": "2.1.8",
   "private": false,
   "type": "module",
   "description": "Full jQuery package for Flyfish File Viewer with the complete preset enabled by default.",
@@ -59,8 +59,8 @@
     "jquery": ">=3 <5"
   },
   "dependencies": {
-    "@file-viewer/jquery": "^2.1.4",
-    "@file-viewer/preset-all": "^2.1.4"
+    "@file-viewer/jquery": "^2.1.8",
+    "@file-viewer/preset-all": "^2.1.8"
   },
   "devDependencies": {
     "@types/jquery": "^4.0.1",
