@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
   "mode": "runtime-only",
-  "sourceCommit": "d20dc22c19a9101647a8198f46dc4037277da7cc",
+  "sourceCommit": "75abb46eea1786fb494d942ae4341191e524e975",
   "aggregateRelease": {
     "repository": "flyfish-dev/file-viewer",
-    "tag": "v3.2.0",
-    "commit": "8cf8e2795300ada3bb27a090c786bdf2d0211ae4"
+    "tag": "v3.2.1",
+    "commit": "d466af1af51babb6d37bbf8db715c5497a88a2a1"
   },
   "package": {
     "packageName": "@file-viewer/jquery-full",
-    "version": "3.2.0",
-    "tarball": "file-viewer-jquery-full-3.2.0.tgz",
-    "tarballSize": 5457,
-    "sha256": "f1ff58b2f191f9467e1155354c2989d76109f959af96415a04530efb6cab29b9",
+    "version": "3.2.1",
+    "tarball": "file-viewer-jquery-full-3.2.1.tgz",
+    "tarballSize": 5460,
+    "sha256": "a91c35208fc626da37d42073a3c2d2c3e2d1393b78cf7d9c219b276745a03835",
     "fileCount": 7,
-    "integrity": "sha512-YAXDnCmn0Ip9wv5Mq85ADySvrZgMGs71vuIP5s5X901pyNQ81KOnvlldWWZ+wqC89wmr8RVG4iLOjknzgq/q0g==",
+    "integrity": "sha512-Nosw56u1C8DOlAUpgidFqzsgi2bF6ShYLcEzbcdQl3ialKPCE2qIHu2kNaLPoXNoG8S/WJK6nmHjMmExrF6dBA==",
     "license": "Apache-2.0",
     "releaseArtifact": {
       "includeTarball": true
